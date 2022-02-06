@@ -2,7 +2,7 @@
 - 👀 I’m interested in development, ( Frontend, Backend, Game development ) development everywhere!
 - 🌱 I’m currently learning ReactJS, i have knowledge in Python, Flask, MySQL, CSS, HTML, and some of JS
 - 💞️ I’m looking to collaborate ... ¿ What can i do for you ?
-- 📫 How to reach me ... @raulfix on Instagram, actually i´m working on my site http://raulfix.tk
+- 📫 How to reach me ... @raulfix on Instagram, actually i´m working on my site https://raulfix-developer.herokuapp.com/
 
 <!---
 RPinero-20/RPinero-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
